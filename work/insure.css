@@ -135,6 +135,7 @@ main{
     border: 2px solid white;
     align-items: baseline;
     align-items: center;
+    /* padding: 1rem 3rem; */
  }
 
  .container3 h1{
